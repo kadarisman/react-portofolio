@@ -15,7 +15,7 @@ function App() {
       <div className="container mx-auto px-0">
         <div className="bg-cover bg-no-repeat bg-center shadow-xl shadow-slate-500" style={{backgroundImage: `url("img/hero-bg.png")`}}>
           <Menu/>
-          <div class="border border-slate-500 mt-4"></div>
+          {/* <div class="border border-slate-500 mt-4"></div> */}
           <Hero/>
         </div>
         <About/>

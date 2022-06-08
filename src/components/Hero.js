@@ -4,12 +4,12 @@ export const Hero = () => {
   return (
     <div className='flex flex-col-reverse md:flex-row px-10 py-4' >
         <div className='w-full text-center mt-4 md:text-left md:mt-0 md:w-3/4'>
-            <h1 className='mb-4 font-bold text-4xl text-white'>I am Kadarisman, <br/> <span className='text-2xl'>Fullstack Web Developer</span></h1>
+            <h1 className='mb-4 font-bold text-4xl text-white'>I am Kadarisman, <br/> <span className='text-2xl'>Fullstack Web Developer <br/> Flutter Developer</span></h1>
             <h4 className='mb-6 font-base text-xl text-slate-100'>
             Based in Banda Aceh, Indonesia. Currently, I'm focused on building and maintaining web app at Klik Data Indonesia.
             </h4>
             {/* <button className='bg-sky-700 text-xl hover:bg-sky-900 text-white px-3 py-3 rounded-xl mr-2'>Download Resume</button> */}
-            <a href="https://www.instagram.com/risman_yuzar/?igshid=YmMyMTA2M2Y%3D" target='_blank' rel="noopener noreferrer">
+            <a href="https://drive.google.com/file/d/1NxkKSgeioWC9rQhGkSpZCclzrmbixdL_/view?usp=sharing" target='_blank' rel="noopener noreferrer">
               <button className='bg-gradient-to-r from-sky-700 to-sky-500 hover:from-indigo-700 hover:to-indigo-500 text-white px-3 py-1.5 rounded-xl mr-2 mb-3'>My Resume</button>
             </a>
             <a href="https://github.com/kadarisman" target='_blank' rel="noopener noreferrer">
