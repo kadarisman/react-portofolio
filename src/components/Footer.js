@@ -15,7 +15,7 @@ export const Footer = () => {
             <a href="https://www.instagram.com/risman_yuzar/?igshid=YmMyMTA2M2Y%3D" target='_blank' rel="noopener noreferrer">
               <img className='w-8 h-8' src={ig} alt="instagram" />
             </a>
-            <a href="www.linkedin.com/in/kadarisman-yuzar-a1706a120" target='_blank' rel="noopener noreferrer">
+            <a href="https://www.linkedin.com/in/kadarisman-yuzar-a1706a120/" target='_blank' rel="noopener noreferrer">
               <img className='w-8 h-8' src={lik} alt="likedin" />
             </a>
         </div>
