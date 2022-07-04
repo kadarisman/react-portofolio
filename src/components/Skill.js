@@ -12,7 +12,6 @@ const Skill = () => {
 
         <div className="">
           <img className="h-15 w-20" src="img/icon/nodejs.png" alt="node js" />
-          <p className="text-center">80 %</p>
         </div>
 
         <div className="">

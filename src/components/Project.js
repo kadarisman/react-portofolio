@@ -30,23 +30,6 @@ export const Project = () => {
           Portofolio pribadi saya, dibuat dengan React Js dan TailwindCss, untuk dokumentasi apa pun yang pernah saya kerjakan baik project client atau project hasil belajar.
           </p>
         </div>
-      </div>
-      <div className="flex flex-col gap-4 mb-7 pb-7  border-b border-sky-500 md:flex-row">
-        <div className="md:h-32 md:w-56">
-          <img src={img2} alt="portofolio" className="md:h-32 md:w-56"/>
-        </div>
-        <div className="fitur-detail-text">
-          <h2 className="text-2xl leading-tight font-bold mb-2">Xample Company Profile <span className="text-xs rounded-lg mr-3.5 bg-slate-300 py-1 px-1.5"> Monolithic</span></h2>
-          <a href="https://try-project.000webhostapp.com/" target='_blank' rel="noopener noreferrer">
-          <button className="bg-gradient-to-r from-sky-700 to-sky-500 hover:from-indigo-700 hover:to-indigo-500 text-white text-xs font-semibold py-1 px-1.5 rounded-lg mr-3.5">Demo</button>
-          </a>
-          <a href="https://github.com/kadarisman/ci-company-profile" target='_blank' rel="noopener noreferrer">
-          <button className="bg-gradient-to-r from-indigo-700 to-indigo-500 hover:from-sky-700 hover:to-sky-500 text-white text-xs font-semibold py-1 px-1.5 rounded-lg mr-3.5">Github</button>
-          </a>
-          <p className="mt-2">
-          Website company profile testing saya melamar pekerjaan, sebagai bukti saya bisa menggunakan framework codeigniter dengan fitur login dan register didalamnya.
-          </p>
-        </div>
       </div>      
       <div className="flex flex-col gap-4 mb-7 pb-7  border-b border-sky-500 md:flex-row">
         <div className="md:h-32 md:w-56">
