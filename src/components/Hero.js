@@ -4,9 +4,9 @@ export const Hero = () => {
   return (
     <div className='flex flex-col-reverse md:flex-row px-10 py-4' >
         <div className='w-full text-center mt-4 md:text-left md:mt-0 md:w-3/4'>
-            <h1 className='mb-4 font-bold text-4xl text-white'>I am Kadarisman, <br/> <span className='text-2xl'>Fullstack Web Developer <br/> Flutter Developer</span></h1>
+            <h1 className='mb-4 font-bold text-4xl text-white'>I am Kadarisman, <br/> <span className='text-2xl'>Web Programmer </span></h1>
             <h4 className='mb-6 font-base text-xl text-slate-100'>
-            Based in Banda Aceh, Indonesia. Currently, I'm focused on building and maintaining web app at Klik Data Indonesia.
+            Banda Aceh, Indonesia, sekarang bekerja sebagai Web Programmer di sebuah perusahaan swasta di Banda Aceh
             </h4>
             {/* <button className='bg-sky-700 text-xl hover:bg-sky-900 text-white px-3 py-3 rounded-xl mr-2'>Download Resume</button> */}
             <a href="https://drive.google.com/file/d/1NxkKSgeioWC9rQhGkSpZCclzrmbixdL_/view?usp=sharing" target='_blank' rel="noopener noreferrer">
