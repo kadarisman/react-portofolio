@@ -9,7 +9,7 @@ export const Hero = () => {
             Banda Aceh, Indonesia, sekarang bekerja sebagai Web Programmer di sebuah perusahaan swasta di Banda Aceh
             </h4>
             {/* <button className='bg-sky-700 text-xl hover:bg-sky-900 text-white px-3 py-3 rounded-xl mr-2'>Download Resume</button> */}
-            <a href="https://drive.google.com/file/d/1NxkKSgeioWC9rQhGkSpZCclzrmbixdL_/view?usp=sharing" target='_blank' rel="noopener noreferrer">
+            <a href="https://drive.google.com/file/d/1vCL8ezYcpiVSYKN5vhh0BPvrW_FKvbof/view?usp=sharing" target='_blank' rel="noopener noreferrer">
               <button className='bg-gradient-to-r from-sky-700 to-sky-500 hover:from-indigo-700 hover:to-indigo-500 text-white px-3 py-1.5 rounded-xl mr-2 mb-3'>My Resume</button>
             </a>
             <a href="https://github.com/kadarisman" target='_blank' rel="noopener noreferrer">
