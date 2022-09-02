@@ -15,6 +15,10 @@ const Skill = () => {
         </div>
 
         <div className="">
+          <img className="h-15 w-20" src="img/icon/nextjs.png" alt="node js" />
+        </div>
+
+        <div className="">
           <img className="h-10 w-10" src="img/icon/laravel.png" alt="laravel" />
         </div>
 
@@ -44,6 +48,7 @@ const Skill = () => {
         </div>
         
       </div>
+      <p className="text-center font-bold mt-10">Sekarang fokus pengembangan Skill sebagai Full Stack Javascript Web Developer</p>
     </div>
   );
 };
