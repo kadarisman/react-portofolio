@@ -62,10 +62,6 @@ const Skill = () => {
             <img className="h-9 w-15" src="img/icon/docker.png" alt="docker" />
           </div>
 
-//           <div className="">
-//             <img className="h-9 w-15" src="img/icon/kubernetes.png" alt="kubernetes" />
-//           </div>
-
         </div>
 
       </div>
