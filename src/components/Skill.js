@@ -62,15 +62,15 @@ const Skill = () => {
             <img className="h-9 w-15" src="img/icon/docker.png" alt="docker" />
           </div>
 
-          <div className="">
-            <img className="h-9 w-15" src="img/icon/kubernetes.png" alt="kubernetes" />
-          </div>
+//           <div className="">
+//             <img className="h-9 w-15" src="img/icon/kubernetes.png" alt="kubernetes" />
+//           </div>
 
         </div>
 
       </div>
       <p className="text-center font-bold mt-10">
-        Node Js, Next Js, Laravel, Codeigniter, React Js, Jquery. Tailwind Css, Bootstrap, Mysql, Mongo Db, Docker, Kubernetes
+        Node Js, Next Js, Laravel, Codeigniter, React Js, Jquery. Tailwind Css, Bootstrap, Mysql, Mongo Db, Docker
       </p>
       <p className="text-center font-bold mt-10">Sekarang fokus pengembangan Skill sebagai Full Stack Javascript Web Developer</p>
     </div>
