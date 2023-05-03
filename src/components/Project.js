@@ -5,6 +5,7 @@ import img5 from '../img/image5.png';
 import img10 from '../img/image10.png';
 import img11 from '../img/image11.png';
 import img12 from '../img/image12.png';
+import img13 from '../img/image13.png';
 //import { BrowserRouter as Router, Route, Link } from 'react-router-dom';
 
 export const Project = () => {
@@ -75,6 +76,23 @@ export const Project = () => {
           </a>    
           <p className="mt-2">
           Penggunaan Typescript dengan Express Js untuk pembuatan web service dengan konsep OOP (Object Oriented Programming) serta penerapan simple Authenctication untuk validasi client
+          </p>
+        </div>
+      </div>
+         <div className="flex flex-col gap-4 mb-7 pb-7  border-b border-sky-500 md:flex-row">
+        <div className="md:h-32 md:w-56">
+          <img src={img13} alt="portofolio" className="md:h-32 md:w-56"/>
+        </div>
+        <div className="fitur-detail-text">
+          <h2 className="text-2xl leading-tight font-bold mb-2">Personal Landing Page <span className="text-xs rounded-lg mr-3.5 bg-slate-300 py-1 px-1.5"> Frontend</span></h2>
+          <a href="https://kadarisman.github.io" target='_blank' rel="noopener noreferrer">
+          <button className="bg-gradient-to-r from-sky-700 to-sky-500 hover:from-indigo-700 hover:to-indigo-500 text-white text-xs font-semibold py-1 px-1.5 rounded-lg mr-3.5">Demo</button>
+          </a>         
+          <a href="https://github.com/kadarisman/kadarisman.github.io" target='_blank' rel="noopener noreferrer">
+            <button className="bg-gradient-to-r from-indigo-700 to-indigo-500 hover:from-sky-700 hover:to-sky-500 text-white text-xs font-semibold py-1 px-1.5 rounded-lg mr-3.5">Github</button>
+          </a>    
+          <p className="mt-2">
+          Landing page sederhana untuk informasi tantang diri sekaligus tempat dokumentasi project project yang pernah dikerjakan, dibuat dengan Css Bootstrap
           </p>
         </div>
       </div>
