@@ -102,14 +102,14 @@ export const Project = () => {
         </div>
         <div className="fitur-detail-text">
           <h2 className="text-2xl leading-tight font-bold mb-2">API Service Info Dana Desa <span className="text-xs rounded-lg mr-3.5 bg-slate-300 py-1 px-1.5"> Backend</span></h2>
-          <a href="https://dana-desa.herokuapp.com/api-docs/" target='_blank' rel="noopener noreferrer">
+          <a href="https://amaranth-jackrabbit-cape.cyclic.app/api-docs/" target='_blank' rel="noopener noreferrer">
           <button className="bg-gradient-to-r from-sky-700 to-sky-500 hover:from-indigo-700 hover:to-indigo-500 text-white text-xs font-semibold py-1 px-1.5 rounded-lg mr-3.5">Demo</button>
           </a>         
           <a href="https://github.com/kadarisman/dana-desa-be" target='_blank' rel="noopener noreferrer">
             <button className="bg-gradient-to-r from-indigo-700 to-indigo-500 hover:from-sky-700 hover:to-sky-500 text-white text-xs font-semibold py-1 px-1.5 rounded-lg mr-3.5">Github</button>
           </a>   
           <p className="mt-2">
-          Project sederhana webservice untuk informasi dana desa, dibuat dengan node js, express dan mysql RDBMS, dan di deploy ke heroku.
+          Project sederhana webservice untuk informasi dana desa, dibuat dengan node js, express dan mysql RDBMS, project ini sudah menerapkan Authenctication dengan json webtoken.
           </p>
         </div>
       </div>
@@ -126,7 +126,7 @@ export const Project = () => {
             <button className="bg-gradient-to-r from-indigo-700 to-indigo-500 hover:from-sky-700 hover:to-sky-500 text-white text-xs font-semibold py-1 px-1.5 rounded-lg mr-3.5">Github</button>
           </a>   
           <p className="mt-2">
-          Project sederhana untuk informasi dana desa, dibuat dengan Next Js, Tailwind Css, Chart Js, dan di deploy ke vercel.
+          Project sederhana untuk informasi dana desa, dibuat dengan Next Js, Tailwind Css, Chart Js, menggunakan next Authenctication untuk login.
           </p>
         </div>
       </div>
